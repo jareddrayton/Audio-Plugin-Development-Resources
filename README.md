@@ -15,14 +15,24 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 - [Understanding Digital Signal Processing](http://www.amazon.co.uk/dp/0137027419)
 
+### JUCE Tutorials
+
+- [Official JUCE tutorials](https://www.juce.com/tutorials)
+
 ### Forums
 
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
-### Guitar Amp/Analog Modelling
+## Guitar Amp/Analog Modelling
 
-## Videos
+### Tools
+
+- [SPICE](http://www.linear.com/designtools/software/#LTspice)
+- [LiveSPICE](http://www.livespice.org/#content)
+- [Tone Stack Calculator](http://www.duncanamps.com/tsc/)
+
+### Videos
 
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
 
