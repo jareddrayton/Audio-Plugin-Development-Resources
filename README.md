@@ -14,6 +14,7 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 ### Digital Signal Processing Books
 
 - [Understanding Digital Signal Processing](http://www.amazon.co.uk/dp/0137027419)
+- [Julius Smith Page](https://ccrma.stanford.edu/~jos/)
 
 ### JUCE Tutorials
 
@@ -22,6 +23,7 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 ### WDL-OL
 
 - [Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
+- [What's made with iPLug?](http://forum.cockos.com/showthread.php?t=122276)
 
 ### Forums
 
@@ -33,6 +35,7 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 ### Theory
 
 - [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
+- [DAFX](http://www.dafx.de/)
 
 ### Tools
 
