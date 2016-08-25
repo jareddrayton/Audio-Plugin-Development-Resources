@@ -26,6 +26,10 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 ## Guitar Amp/Analog Modelling
 
+### Theory
+
+- [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
+
 ### Tools
 
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
@@ -35,4 +39,6 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 ### Videos
 
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
+
+### Schematics
 
