@@ -46,6 +46,7 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 ### Videos
 
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
+- [Virtual Analog Modeling Research - Vesa Valimaki](https://www.youtube.com/watch?v=lFEkLjQ-aaE)
 
 ### Schematics
 
