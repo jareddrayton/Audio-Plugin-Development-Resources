@@ -19,6 +19,10 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 - [Official JUCE tutorials](https://www.juce.com/tutorials)
 
+### WDL-OL
+
+- [Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
+
 ### Forums
 
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
