@@ -2,6 +2,8 @@
 
 A collection of various VST/Plug-in resources and link I have accumulated. 
 
+## General
+
 ### Plug-in Development Books
 
 - [Audio Effects: Theory, Implementation and Application](https://www.amazon.co.uk/Audio-Effects-Theory-Implementation-Application/dp/1466560282/ref=sr_1_1?s=books&ie=UTF8&qid=1472149423&sr=1-1&keywords=Audio+Effects%3A+Theory%2C+Implementation+and+Application)
@@ -30,7 +32,11 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
-## Guitar Amp/Analog Modelling
+## GUI
+
+- []()
+
+## Guitar Amp and Analog Hardware Modelling
 
 ### Theory
 
