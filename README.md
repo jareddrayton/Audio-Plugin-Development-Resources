@@ -34,6 +34,8 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 ## Guitar Amp and Analog Hardware Modelling
 
+- [Amp Books - Tutorials/Scehmatics](https://www.ampbooks.com/)
+
 ### Theory
 
 - [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
