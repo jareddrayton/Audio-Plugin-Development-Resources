@@ -2,7 +2,7 @@
 
 A collection of various VST/Plug-in resources and link I have accumulated. 
 
-## General
+## Core
 
 ### Plug-in Development Books
 
@@ -32,10 +32,6 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
-## GUI
-
-- []()
-
 ## Guitar Amp and Analog Hardware Modelling
 
 ### Theory
@@ -56,3 +52,14 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 ### Schematics
 
+## GUI
+
+- [SkinMan](http://www.g200kg.com/en/software/skinman.html)
+- [KnobMan](http://www.g200kg.com/en/software/knobman.html)
+- [KVR: Knobman/Skinman Examples](http://www.kvraudio.com/forum/viewtopic.php?f=33&t=232629)
+- [KVR: Getting into VST UI Design](http://www.kvraudio.com/forum/viewtopic.php?t=223173)
+- [Photoshop: Creating a Cool Brushed Metal Surface](http://design.tutsplus.com/tutorials/creating-a-cool-brushed-metal-surface-in-photoshop--psd-117)
+- [Photoshop: How to make Tweed](http://www.mahalo.com/how-to-make-tweed-in-photoshop/)
+- [GIMP: Create a metal effect](https://en.wikibooks.org/wiki/GIMP/Create_a_Metal_Effect)
+- [GIMP: Metal text effects](https://texteffectsforgimp.wordpress.com/metal-2/)
+- [Blender: Blender Guru Youtube](https://www.youtube.com/user/AndrewPPrice/videos)
