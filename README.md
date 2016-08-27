@@ -34,9 +34,11 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 ## Guitar Amp and Analog Hardware Modelling
 
+### Guitar Amp Theory
+
 - [Amp Books - Tutorials/Scehmatics](https://www.ampbooks.com/)
 
-### Theory
+### Modelling Theory Theory
 
 - [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
 - [DAFX](http://www.dafx.de/)
@@ -46,6 +48,11 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
 - [LiveSPICE](http://www.livespice.org/#content)
 - [Tone Stack Calculator](http://www.duncanamps.com/tsc/)
+
+### Tutorials
+
+- [Simulating Audio Effects with LTSpice](http://hforsten.com/simulating-audio-effects-with-spice.html)
+- [Simulating the TS808 Tubescreamer in LTSPice](http://cushychicken.github.io/ltspice-tube-screamer/)
 
 ### Videos
 
