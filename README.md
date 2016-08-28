@@ -1,6 +1,6 @@
 # VST-DSP-resources
 
-A collection of various VST/Plug-in resources and link I have accumulated. 
+A collection of links and resources for VST/Plug-in development that I seem to have accumulated. Link != endorsement. 
 
 ## Core
 
@@ -18,7 +18,7 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [Understanding Digital Signal Processing](http://www.amazon.co.uk/dp/0137027419)
 - [Julius Smith Page](https://ccrma.stanford.edu/~jos/)
 
-### Digital Signal Processing Tutorials
+### Digital Signal Processing Tutorials/Posts
 
 - [RS-Met](http://www.rs-met.com/tutorials.html)
 - [Overlap-add Convolution](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/convolution.html)
@@ -34,11 +34,12 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
 - [What's made with iPLug?](http://forum.cockos.com/showthread.php?t=122276)
 
-### Libraries
+### Libraries/Code
 
 - [STK](https://github.com/thestk/stk)
 - [Audio Toolkit](https://sourceforge.net/projects/audiotoolkitplugins/)
 - [dplug](https://github.com/AuburnSounds/dplug)
+- [MusicDSP Archive](http://www.musicdsp.org/archive.php?classid=0)
 
 ### Forums
 
@@ -50,10 +51,26 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 2](http://www.uaudio.com/blog/ask-doctors-ua-modeling-plug-ins/)
 
+- [GAM: General Discussion](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=7006)
+- [GAM: General Discussion II](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=20540&sid=08f44af82d2598e29059264d9f297b6a#p95937)
+- [KVR General Discussion](http://www.kvraudio.com/forum/viewtopic.php?t=277994)
+
+### Compressors
+
+- [1172](http://arpjournal.com/all-buttons-in-an-investigation-into-the-use-of-the-1176-fet-compressor-in-popular-music-production/)
+
+### Effects
+
+- [Whammy](http://www.diystompboxes.com/smfforum/index.php?topic=29074.0;wap2)
+
 ### Guitar Amp Theory
 
 - [Amp Books - Tutorials/Scehmatics](https://www.ampbooks.com/)
 - [Valve Wizard](http://www.valvewizard.co.uk/)
+- [Amplifier Glossary](http://www.aikenamps.com/index.php/a-glossary-of-common-amplifier-terms)
+- [Distortion 101](http://blackstoneappliances.com/dist101.html)
+- [A Musical Distortion Primer](http://www.geofex.com/effxfaq/distn101.htm)
+- [GM-Arts Amp page](http://www.gmarts.org/index.php?go=210) 
 
 ### Modelling Theory
 
@@ -62,22 +79,22 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [DAFX](http://www.dafx.de/)
 - [SimulAnalog Articles](http://www.simulanalog.org/)
 
-### Tools
+### Software/Tools
 
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
 - [LiveSPICE](http://www.livespice.org/#content)
 - [DAP: Tone Stack Calculator](http://www.duncanamps.com/tsc/)
 - [DAP: Tube Data Sheet Locator](http://www.duncanamps.com/tdslpe/index.html)
 
-### Tutorials
+### Tutorials/Posts
 
 - [Simulating Audio Effects with LTSpice](http://hforsten.com/simulating-audio-effects-with-spice.html)
 - [Simulating the TS808 Tubescreamer in LTSpice](http://cushychicken.github.io/ltspice-tube-screamer/)
 - [LTSpice and and Vacuum Tube Models](http://www.duncanamps.com/technical/ltspice.html)
 - [Transient Analysis in with LTSpice](http://www.ecircuitcenter.com/SpiceTopics/Transient%20Analysis/Transient%20Analysis.htm)
-- [](http://blog.audio-tk.com/2016/06/28/analog-modeling-triode-circuit/)
-- [](http://blog.audio-tk.com/2016/06/14/analog-modeling-sd1-vs-ts9/)
-- [ANALOG MODELING: TRIODE CIRCUIT](http://blog.audio-tk.com/2016/06/28/analog-modeling-triode-circuit/)
+- [Analog Modeling: Triode Circuit](http://blog.audio-tk.com/2016/06/28/analog-modeling-triode-circuit/)
+- [Analog Modeling: SD-1 vs TS9](http://blog.audio-tk.com/2016/06/14/analog-modeling-sd1-vs-ts9/)
+- [Tubescreamer Emulator in 60 Minutes](http://www.ultimatemetal.com/forum/threads/tubescreamer-emulator-in-60-minutes.502480/)
 
 ### Videos
 
@@ -90,6 +107,10 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [Schematic Heaven](http://schematicheaven.net/)
 - [Dumble ODS #124](http://pdfelectronics.com/dumble-ods-124/)
 - [The Amp Garage (Good for Dumble Schematics)](http://ampgarage.com/forum/)
+
+### Speaker Simulation
+
+- [Cabsims](http://www.hexeguitar.com/diy/techinfo/cabsims)
 
 ### Misc
 
@@ -108,12 +129,12 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [GIMP: Metal text effects](https://texteffectsforgimp.wordpress.com/metal-2/)
 - [Blender: Blender Guru Youtube](https://www.youtube.com/user/AndrewPPrice/videos)
 
-### Misc
+## Misc
 
 - [AudioKit](http://audiokit.io/)
 - [GPU Physical Modeling SYntesiser](https://www.youtube.com/watch?v=Tg3OVbsBn6c)
 
-## FAUST
+### FAUST
 
 - [Using the FAUST DSP language and the libfaust JIT compiler with JUCE - Oli Larkin](https://www.youtube.com/watch?v=INlqClEOhak&feature=youtu.be&a)
 - [Faust Worksop 2015: Online Course - Romain Michon](https://ccrma.stanford.edu/~rmichon/faustWorkshops/course2015/)
