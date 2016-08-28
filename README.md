@@ -18,9 +18,10 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [Understanding Digital Signal Processing](http://www.amazon.co.uk/dp/0137027419)
 - [Julius Smith Page](https://ccrma.stanford.edu/~jos/)
 
-### JUCE Tutorials
+### JUCE
 
 - [Official JUCE tutorials](https://www.juce.com/tutorials)
+- [Official JUCE Youtube](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/videos)
 
 ### WDL-OL
 
@@ -52,17 +53,20 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
 - [LiveSPICE](http://www.livespice.org/#content)
-- [Tone Stack Calculator](http://www.duncanamps.com/tsc/)
+- [DAP: Tone Stack Calculator](http://www.duncanamps.com/tsc/)
+- [DAP: Tube Data Sheet Locator](http://www.duncanamps.com/tdslpe/index.html)
 
 ### Tutorials
 
 - [Simulating Audio Effects with LTSpice](http://hforsten.com/simulating-audio-effects-with-spice.html)
-- [Simulating the TS808 Tubescreamer in LTSPice](http://cushychicken.github.io/ltspice-tube-screamer/)
+- [Simulating the TS808 Tubescreamer in LTSpice](http://cushychicken.github.io/ltspice-tube-screamer/)
+- [LTSpice and and Vacuum Tube Models](http://www.duncanamps.com/technical/ltspice.html)
 
 ### Videos
 
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
 - [Virtual Analog Modeling Research - Vesa Valimaki](https://www.youtube.com/watch?v=lFEkLjQ-aaE)
+- [AX84 HI-OCTANE DIY Guitar amp Simulation in LTSPICE ](https://www.youtube.com/watch?v=63sqqas_JOU)
 
 ### Schematics
 
