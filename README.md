@@ -50,7 +50,6 @@ A collection of links and resources for VST/Plug-in development that I seem to h
 
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 2](http://www.uaudio.com/blog/ask-doctors-ua-modeling-plug-ins/)
-
 - [GAM: General Discussion](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=7006)
 - [GAM: General Discussion II](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=20540&sid=08f44af82d2598e29059264d9f297b6a#p95937)
 - [KVR General Discussion](http://www.kvraudio.com/forum/viewtopic.php?t=277994)
