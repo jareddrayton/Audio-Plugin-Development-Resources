@@ -79,3 +79,7 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [GIMP: Create a metal effect](https://en.wikibooks.org/wiki/GIMP/Create_a_Metal_Effect)
 - [GIMP: Metal text effects](https://texteffectsforgimp.wordpress.com/metal-2/)
 - [Blender: Blender Guru Youtube](https://www.youtube.com/user/AndrewPPrice/videos)
+
+### Misc
+
+-[]
