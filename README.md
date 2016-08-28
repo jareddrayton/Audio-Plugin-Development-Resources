@@ -34,11 +34,14 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 
 ## Guitar Amp and Analog Hardware Modelling
 
+- [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
+- [UA's Art and Science of Modeling UAD Plug-Ins - Part 2](http://www.uaudio.com/blog/ask-doctors-ua-modeling-plug-ins/)
+
 ### Guitar Amp Theory
 
 - [Amp Books - Tutorials/Scehmatics](https://www.ampbooks.com/)
 
-### Modelling Theory Theory
+### Modelling Theory
 
 - [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
 - [DAFX](http://www.dafx.de/)
@@ -60,6 +63,10 @@ A collection of various VST/Plug-in resources and link I have accumulated.
 - [Virtual Analog Modeling Research - Vesa Valimaki](https://www.youtube.com/watch?v=lFEkLjQ-aaE)
 
 ### Schematics
+
+- [Schematic Heaven](http://schematicheaven.net/)
+- [Dumble ODS #124](http://pdfelectronics.com/dumble-ods-124/)
+- [The Amp Garage (Good for Dumble Schematics)](http://ampgarage.com/forum/)
 
 ## GUI
 
