@@ -28,6 +28,7 @@ A collection of links and resources for VST/Plug-in development that I seem to h
 
 - [Official JUCE tutorials](https://www.juce.com/tutorials)
 - [Official JUCE Youtube](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/videos)
+- [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A/videos)
 
 ### WDL-OL
 
@@ -47,6 +48,11 @@ A collection of links and resources for VST/Plug-in development that I seem to h
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
 ## Guitar Amplifier and Analog Hardware Modelling
+
+## Videos
+- [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
+
+### General
 
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 2](http://www.uaudio.com/blog/ask-doctors-ua-modeling-plug-ins/)
