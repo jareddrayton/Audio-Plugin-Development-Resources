@@ -1,6 +1,8 @@
-# VST-DSP-resources
+# Audio-Plugin-Development-Resources
 
-A collection of links and resources for VST/Plug-in development that I seem to have accumulated. Link != endorsement. 
+A collection of links and resources that I have accumulated related to Audio-Plugin-Development (VST AU etc,), including signal processing. 
+
+Link != endorsement. 
 
 ## Core
 
