@@ -2,6 +2,8 @@
 
 A collection of links and resources that I have accumulated related to Audio-Plugin-Development (VST AU etc,), including signal processing. 
 
+This list curated by Oli Larkin may also be of interest. (https://github.com/olilarkin/awesome-musicdsp) 
+
 Link != endorsement. 
 
 ## Core
