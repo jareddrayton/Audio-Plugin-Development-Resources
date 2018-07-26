@@ -83,6 +83,7 @@ Link != endorsement.
 
 ### Modelling Theory
 
+- [Reddit user C0DASOON comment on machine learning in guitar amp modelling](http://archive.is/vcyfv)
 - [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
 - [A Review of Digital Techniques for Modeling Vacuum-Tube Guitar Amplifiers](http://www.mitpressjournals.org/doi/abs/10.1162/comj.2009.33.2.85#.V8MYPfkrK71)
 - [DAFX](http://www.dafx.de/)
