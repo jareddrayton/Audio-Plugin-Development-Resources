@@ -24,8 +24,7 @@ Link != endorsement.
 - [Overlap-add Convolution](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/convolution.html)
 - [Ear Level Engineering](http://www.earlevel.com/main/category/digital-audio/)
 
-### Digital Signal Processing Videos
-
+#### Digital Signal Processing Videos
 - [Volterra kernel based sampling and the future of convolution audio software](https://www.youtube.com/watch?v=h9-pMQzPqbo)
 
 #### JUCE
@@ -83,6 +82,7 @@ Link != endorsement.
 - [A Review of Digital Techniques for Modeling Vacuum-Tube Guitar Amplifiers](http://www.mitpressjournals.org/doi/abs/10.1162/comj.2009.33.2.85#.V8MYPfkrK71)
 - [DAFX](http://www.dafx.de/)
 - [SimulAnalog Articles](http://www.simulanalog.org/)
+- [Scholar Search](https://scholar.google.dk/scholar?hl=en&as_sdt=0,5&q=guitar+lstm)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
