@@ -1,8 +1,8 @@
 ## Audio-Plugin-Development-Resources
 
-A collection of links and resources that I have accumulated related to Audio-Plugin-Development (VST AU etc,), including signal processing. 
+A collection of links and resources related to Audio-Plugin-Development (VST, AU, AAX), including some signal processing. 
 
-This list curated by Oli Larkin may also be of interest. (https://github.com/olilarkin/awesome-musicdsp) 
+This list curated by Oli Larkin may also be of interest. (https://github.com/olilarkin/awesome-musicdsp). Also this one by Ocean Swift (https://github.com/OceanSwift/DSP-Links-Resources) 
 
 Link != endorsement. 
 
@@ -20,6 +20,7 @@ Link != endorsement.
 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 
 #### Digital Signal Processing Tutorials/Posts
+- [SEEING CIRCLES, SINES, AND SIGNALS A COMPACT PRIMER ON DIGITAL SIGNAL PROCESSING](https://jackschaedler.github.io/circles-sines-signals/index.html)
 - [RS-Met](http://www.rs-met.com/tutorials.html)
 - [Overlap-add Convolution](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/convolution.html)
 - [Ear Level Engineering](http://www.earlevel.com/main/category/digital-audio/)
@@ -32,6 +33,7 @@ Link != endorsement.
 - [Official JUCE Youtube](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/videos)
 - [Audio Developer Conference Playlists](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/playlists)
 - [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A/videos)
+- [Scowling Owl Blog](http://scowlingowlsound.com/blog)
 
 #### WDL-OL
 - [Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
@@ -42,6 +44,7 @@ Link != endorsement.
 - [Audio Toolkit](https://sourceforge.net/projects/audiotoolkitplugins/)
 - [dplug](https://github.com/AuburnSounds/dplug)
 - [MusicDSP Archive](http://www.musicdsp.org/archive.php?classid=0)
+- [DISTRO](https://github.com/DISTRHO/DPF)
 
 #### Forums
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
