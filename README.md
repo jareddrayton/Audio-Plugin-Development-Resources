@@ -92,6 +92,7 @@ Link != endorsement.
 - [LiveSPICE](http://www.livespice.org/#content)
 - [DAP: Tone Stack Calculator](http://www.duncanamps.com/tsc/)
 - [DAP: Tube Data Sheet Locator](http://www.duncanamps.com/tdslpe/index.html)
+- [Circuit Simulator](http://www.falstad.com/circuit/)
 
 #### Tutorials/Posts
 - [Simulating Audio Effects with LTSpice](http://hforsten.com/simulating-audio-effects-with-spice.html)
