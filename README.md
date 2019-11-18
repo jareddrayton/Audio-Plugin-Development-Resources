@@ -27,6 +27,7 @@ Link != endorsement.
 
 #### Digital Signal Processing Videos
 - [Volterra kernel based sampling and the future of convolution audio software](https://www.youtube.com/watch?v=h9-pMQzPqbo)
+- [Teaching Yourself to Make Music Software: Steve Duda in Conversation | Loop](https://www.youtube.com/watch?v=Cp0rtLaXBio)
 
 #### JUCE
 - [Official JUCE tutorials](https://www.juce.com/tutorials)
