@@ -6,52 +6,76 @@ This list curated by Oli Larkin may also be of interest. (https://github.com/oli
 
 Link != endorsement. 
 
+## Core Resources
+
 #### Plug-in Development Books
-- [Audio Effects: Theory, Implementation and Application](https://www.amazon.co.uk/Audio-Effects-Theory-Implementation-Application/dp/1466560282/ref=sr_1_1?s=books&ie=UTF8&qid=1472149423&sr=1-1&keywords=Audio+Effects%3A+Theory%2C+Implementation+and+Application)
-- [Designing Software Synthesizer Plug-Ins in C++: For RackAFX, VST3, and Audio Units](https://www.amazon.co.uk/dp/1138787078)
-- [Designing Audio Effect Plug-Ins in C++](http://www.amazon.co.uk/dp/0240825152)
-- [DAFX: Digital Audio Effects](http://www.amazon.co.uk/dp/0470665998)
-- [Getting Started with JUCE](http://www.amazon.co.uk/dp/1783283319)
-- [The Audio Programming Book](http://www.amazon.co.uk/dp/0262014467)
+- [2019 - Designing Audio Effect Plug-Ins in C++](https://www.amazon.co.uk/dp/1138591939/)
+- [2015 - Designing Software Synthesizer Plug-Ins in C++: For RackAFX, VST3, and Audio Units](https://www.amazon.co.uk/dp/1138787078)
+- [2014 - Audio Effects: Theory, Implementation and Application](https://www.amazon.co.uk/dp/1466560282/)
+- [2013 - Getting Started with JUCE](http://www.amazon.co.uk/dp/1783283319)
+- [2011 - DAFX: Digital Audio Effects](http://www.amazon.co.uk/dp/0470665998)
+- [2010 - The Audio Programming Book](http://www.amazon.co.uk/dp/0262014467)
 
 #### Digital Signal Processing Books
 - [Understanding Digital Signal Processing](http://www.amazon.co.uk/dp/0137027419)
-- [Julius Smith Page](https://ccrma.stanford.edu/~jos/)
 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+- [JOS: MATHEMATICS OF THE DISCRETE FOURIER TRANSFORM (DFT) WITH AUDIO APPLICATIONS](https://ccrma.stanford.edu/~jos/mdft/)
+- [JOS: Introduction to Digital Filters with Audio Applications](https://ccrma.stanford.edu/~jos/filters/)
+- [JOS: Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects](https://ccrma.stanford.edu/~jos/pasp/)
+- [JOS: Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp/)
+- [The Art of VA Filter Design](https://www.discodsp.net/VAFilterDesign_2.1.2.pdf)
 
-#### Digital Signal Processing Tutorials/Posts
-- [SEEING CIRCLES, SINES, AND SIGNALS A COMPACT PRIMER ON DIGITAL SIGNAL PROCESSING](https://jackschaedler.github.io/circles-sines-signals/index.html)
+#### Sound Design Books
+- [The Computer Music Tutorial (The MIT Press)](https://www.amazon.co.uk/dp/0262680823/)
+
+#### Plug-in Development Videos
+- [Teaching Yourself to Make Music Software: Steve Duda in Conversation | Loop](https://www.youtube.com/watch?v=Cp0rtLaXBio)
+- [The Golden Rules of Audio Programming, Pete Goodliffe](https://www.youtube.com/watch?v=SJXGSJ6Zoro)
+- [Lessons Learned from a Decade of Audio Programming](https://www.youtube.com/watch?v=Vjm--AqG04Y)
+- [CppCon 2015: Timur Doumler “C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4)
+- [Volterra kernel based sampling and the future of convolution audio software](https://www.youtube.com/watch?v=h9-pMQzPqbo)
+- [Audio Developer Conference Playlists](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/playlists)
+
+#### Digital Signal Processing Videos
+- [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
+
+#### Digital Signal Processing Tutorials
+- [Seeing Circles, Sines, and Signals a Compact Primer on Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
 - [RS-Met](http://www.rs-met.com/tutorials.html)
 - [Overlap-add Convolution](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/convolution.html)
 - [Ear Level Engineering](http://www.earlevel.com/main/category/digital-audio/)
 
-#### Digital Signal Processing Videos
-- [Volterra kernel based sampling and the future of convolution audio software](https://www.youtube.com/watch?v=h9-pMQzPqbo)
-- [Teaching Yourself to Make Music Software: Steve Duda in Conversation | Loop](https://www.youtube.com/watch?v=Cp0rtLaXBio)
+## Libraries
+
+| Library |                      Site                      |      |
+| :-----: | :--------------------------------------------: | ---- |
+| iPlug2  |      [iPlug2](https://iplug2.github.io/)       |      |
+|  JUCE   |                                                |      |
+|  dplug  | [dplug](https://github.com/AuburnSounds/dplug) |      |
+| DISTRHO |   [DISTRHO](https://github.com/DISTRHO/DPF)    |      |
+
+#### iPlug 2
+- [(Old) Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
 
 #### JUCE
-- [Official JUCE tutorials](https://www.juce.com/tutorials)
+- [Official JUCE Tutorials](https://www.juce.com/tutorials)
 - [Official JUCE Youtube](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/videos)
-- [Audio Developer Conference Playlists](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/playlists)
 - [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A/videos)
 - [Scowling Owl Blog](http://scowlingowlsound.com/blog)
 
-#### WDL-OL
-- [Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
-- [What's made with iPLug?](http://forum.cockos.com/showthread.php?t=122276)
-
-#### Libraries/Code
+#### DSP Code
 - [STK](https://github.com/thestk/stk)
 - [Audio Toolkit](https://sourceforge.net/projects/audiotoolkitplugins/)
-- [dplug](https://github.com/AuburnSounds/dplug)
 - [MusicDSP Archive](http://www.musicdsp.org/archive.php?classid=0)
-- [DISTRO](https://github.com/DISTRHO/DPF)
 
-#### Forums
+#### Forums and Discussion
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
-## Guitar Amplifier and Analog Hardware Modelling
+## Reverb
+- [Valhalla DSP Blog](https://valhalladsp.com/blog/)
+
+## Analog Hardware Modelling
 
 #### Videos
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
@@ -66,11 +90,12 @@ Link != endorsement.
 #### Compressors
 - [1172](http://arpjournal.com/all-buttons-in-an-investigation-into-the-use-of-the-1176-fet-compressor-in-popular-music-production/)
 
-#### Effects
-- [Whammy](http://www.diystompboxes.com/smfforum/index.php?topic=29074.0;wap2)
+#### Papers
+- [Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach](https://www.mdpi.com/2076-3417/6/10/273)
+
+## Guitar Amp Modelling
 
 #### Guitar Amp Theory
-
 - [Amp Books - Tutorials/Scehmatics](https://www.ampbooks.com/)
 - [Valve Wizard](http://www.valvewizard.co.uk/)
 - [Amplifier Glossary](http://www.aikenamps.com/index.php/a-glossary-of-common-amplifier-terms)
@@ -79,14 +104,15 @@ Link != endorsement.
 - [GM-Arts Amp page](http://www.gmarts.org/index.php?go=210) 
 
 #### Modelling Theory
-
 - [Reddit user /u/C0DASOON comment on machine learning in guitar amp modelling](http://archive.is/vcyfv)
 - [Reddit user /u/KjellJagland post on Using ML to digitally emulate commercial vacuum tube amplifiers and transistor-based distortion circuits for guitars](http://archive.fo/33HpL)
+- [Reddit user /u/J1OO post on Guitar Amp Model](https://www.reddit.com/r/DSP/comments/a0bqjo/guitar_amp_model/)
 - [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
 - [A Review of Digital Techniques for Modeling Vacuum-Tube Guitar Amplifiers](http://www.mitpressjournals.org/doi/abs/10.1162/comj.2009.33.2.85#.V8MYPfkrK71)
 - [DAFX](http://www.dafx.de/)
 - [SimulAnalog Articles](http://www.simulanalog.org/)
 - [Scholar Search](https://scholar.google.dk/scholar?hl=en&as_sdt=0,5&q=guitar+lstm)
+- [Addendum A19 Vacuum Tube & Distortion Emulation Part 2](http://willpirkle.com/special/Addendum_A19_Pirkle_v1.0.pdf)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
@@ -121,7 +147,7 @@ Link != endorsement.
 - [Open Source: Caps](http://quitte.de/dsp/caps.html#)
 - [Open Source: Guitarix](https://sourceforge.net/projects/guitarix/)
 
-## GUI
+## GUI Design
 - [SkinMan](http://www.g200kg.com/en/software/skinman.html)
 - [KnobMan](http://www.g200kg.com/en/software/knobman.html)
 - [KVR: Knobman/Skinman Examples](http://www.kvraudio.com/forum/viewtopic.php?f=33&t=232629)
@@ -139,5 +165,3 @@ Link != endorsement.
 ### FAUST
 - [Using the FAUST DSP language and the libfaust JIT compiler with JUCE - Oli Larkin](https://www.youtube.com/watch?v=INlqClEOhak&feature=youtu.be&a)
 - [Faust Worksop 2015: Online Course - Romain Michon](https://ccrma.stanford.edu/~rmichon/faustWorkshops/course2015/)
-
-
