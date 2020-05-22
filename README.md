@@ -131,6 +131,10 @@ Link != endorsement.
 - [Tubescreamer Emulator in 60 Minutes](http://www.ultimatemetal.com/forum/threads/tubescreamer-emulator-in-60-minutes.502480/)
 
 #### Videos
+- [Make your own Free Amp Sim?](https://www.youtube.com/watch?v=4UBXSoYlf-g)
+- [Audio Processing Tutorial: How To Create an AWESOME Distortion VST/AU Plugin In C++ (JUCE Framework)](https://www.youtube.com/watch?v=iNCR5flSuDs)
+- [Matthieu Brucher - Modelling and optimizing a distortion circuit (ADC'17)](https://www.youtube.com/watch?v=HHiMD_QGRo0)
+- [Ivan Cohen - Fifty shades of distortion (ADC'17)](https://www.youtube.com/watch?v=oIChUOV_0w4)
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
 - [Virtual Analog Modeling Research - Vesa Valimaki](https://www.youtube.com/watch?v=lFEkLjQ-aaE)
 - [AX84 HI-OCTANE DIY Guitar amp Simulation in LTSPICE ](https://www.youtube.com/watch?v=63sqqas_JOU)
@@ -158,10 +162,14 @@ Link != endorsement.
 - [GIMP: Metal text effects](https://texteffectsforgimp.wordpress.com/metal-2/)
 - [Blender: Blender Guru Youtube](https://www.youtube.com/user/AndrewPPrice/videos)
 
+## Physical Modelling
+- [Online talk #4: Physical modeling with Pat Scandalis](https://www.youtube.com/watch?v=Sha3zgw9jSU)
+
 ## Misc
 - [AudioKit](http://audiokit.io/)
 - [GPU Physical Modeling SYntesiser](https://www.youtube.com/watch?v=Tg3OVbsBn6c)
 
-### FAUST
+### Languages
 - [Using the FAUST DSP language and the libfaust JIT compiler with JUCE - Oli Larkin](https://www.youtube.com/watch?v=INlqClEOhak&feature=youtu.be&a)
 - [Faust Worksop 2015: Online Course - Romain Michon](https://ccrma.stanford.edu/~rmichon/faustWorkshops/course2015/)
+- [SOUL](https://github.com/soul-lang/SOUL)
