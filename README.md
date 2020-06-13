@@ -35,6 +35,9 @@ Link != endorsement.
 - [CppCon 2015: Timur Doumler “C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4)
 - [Volterra kernel based sampling and the future of convolution audio software](https://www.youtube.com/watch?v=h9-pMQzPqbo)
 - [Audio Developer Conference Playlists](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/playlists)
+- [LL003 | Dave Gamble (DMG Audio) - The magical world of plugins](https://www.youtube.com/watch?v=ke4z7U8m7a0)
+- [Dave Gamble talks TrackComp – DMGAudio Developer Insights](https://www.youtube.com/watch?v=DpxE1QArz5M)
+- [Dave Gamble talks Multiplicity – DMGAudio Developer Insights](https://www.youtube.com/watch?v=uBCM7JCZ-tE)
 
 #### Digital Signal Processing Videos
 - [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
@@ -77,12 +80,15 @@ Link != endorsement.
 
 ## Analog Hardware Modelling
 
+Mainly concerned with modelling compressors, channel strips, EQ's, and guitar amps.
+
 #### Videos
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
 
 #### General
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 2](http://www.uaudio.com/blog/ask-doctors-ua-modeling-plug-ins/)
+- [Under the Hood of the Empirical Labs Arousor Plug-in with Dave Derr](http://www.avidblogs.com/under-the-hood-of-the-empirical-labs-arousor-plug-in-with-dave-derr/)
 - [GAM: General Discussion](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=7006)
 - [GAM: General Discussion II](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=20540&sid=08f44af82d2598e29059264d9f297b6a#p95937)
 - [KVR General Discussion](http://www.kvraudio.com/forum/viewtopic.php?t=277994)
@@ -113,6 +119,7 @@ Link != endorsement.
 - [SimulAnalog Articles](http://www.simulanalog.org/)
 - [Scholar Search](https://scholar.google.dk/scholar?hl=en&as_sdt=0,5&q=guitar+lstm)
 - [Addendum A19 Vacuum Tube & Distortion Emulation Part 2](http://willpirkle.com/special/Addendum_A19_Pirkle_v1.0.pdf)
+- [Component [triode.sym] was not found in the component library](https://sourceforge.net/p/guitarix/bugs/73/)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
