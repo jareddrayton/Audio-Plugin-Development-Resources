@@ -38,6 +38,8 @@ Link != endorsement.
 - [LL003 | Dave Gamble (DMG Audio) - The magical world of plugins](https://www.youtube.com/watch?v=ke4z7U8m7a0)
 - [Dave Gamble talks TrackComp – DMGAudio Developer Insights](https://www.youtube.com/watch?v=DpxE1QArz5M)
 - [Dave Gamble talks Multiplicity – DMGAudio Developer Insights](https://www.youtube.com/watch?v=uBCM7JCZ-tE)
+- [Marek Bereza - How to prototype audio software](https://www.youtube.com/watch?v=AO1V8er6IjM)
+- [Russel McClellan - A practical perspective on deep learning in audio software](https://www.youtube.com/watch?v=fGuT9zoQ_JA)
 
 #### Digital Signal Processing Videos
 - [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
@@ -72,6 +74,7 @@ Link != endorsement.
 - [MusicDSP Archive](http://www.musicdsp.org/archive.php?classid=0)
 
 #### Forums and Discussion
+- [iPLug 2 Forum](https://iplug2.discourse.group/)
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
