@@ -40,6 +40,7 @@ Link != endorsement.
 - [Dave Gamble talks Multiplicity – DMGAudio Developer Insights](https://www.youtube.com/watch?v=uBCM7JCZ-tE)
 - [Marek Bereza - How to prototype audio software](https://www.youtube.com/watch?v=AO1V8er6IjM)
 - [Russel McClellan - A practical perspective on deep learning in audio software](https://www.youtube.com/watch?v=fGuT9zoQ_JA)
+- [Oli Larkin: iPlug2, C++ framework to build plug-ins](https://www.youtube.com/watch?v=eVi-OWFPwO4&feature=youtu.be)
 
 #### Digital Signal Processing Videos
 - [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
@@ -77,6 +78,9 @@ Link != endorsement.
 - [iPLug 2 Forum](https://iplug2.discourse.group/)
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
+
+## Audio Codecs
+- [Audio File Format Specifications - Wave](http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html)
 
 ## Reverb
 - [Valhalla DSP Blog](https://valhalladsp.com/blog/)
@@ -123,6 +127,9 @@ Mainly concerned with modelling compressors, channel strips, EQ's, and guitar am
 - [Scholar Search](https://scholar.google.dk/scholar?hl=en&as_sdt=0,5&q=guitar+lstm)
 - [Addendum A19 Vacuum Tube & Distortion Emulation Part 2](http://willpirkle.com/special/Addendum_A19_Pirkle_v1.0.pdf)
 - [Component [triode.sym] was not found in the component library](https://sourceforge.net/p/guitarix/bugs/73/)
+- [WaveNetVA](https://github.com/damskaggep/WaveNetVA)
+- [PedalNet](https://github.com/teddykoker/pedalnet)
+- [Real-Time Guitar Amplifier Emulation with Deep Learning](https://www.mdpi.com/2076-3417/10/3/766/htm)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
