@@ -82,6 +82,8 @@ Link != endorsement.
 ## Audio Codecs
 - [Audio File Format Specifications - Wave](http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html)
 
+- [CookDSP: Library for Reaper JS](http://ajaxsoundstudio.com/software/cookdsp/)
+
 ## Reverb
 - [Valhalla DSP Blog](https://valhalladsp.com/blog/)
 
@@ -130,6 +132,8 @@ Mainly concerned with modelling compressors, channel strips, EQ's, and guitar am
 - [WaveNetVA](https://github.com/damskaggep/WaveNetVA)
 - [PedalNet](https://github.com/teddykoker/pedalnet)
 - [Real-Time Guitar Amplifier Emulation with Deep Learning](https://www.mdpi.com/2076-3417/10/3/766/htm)
+- [GuuitarML](https://github.com/GuitarML)
+- [Jatin Chowdhury](https://ccrma.stanford.edu/~jatin/chowdsp/)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
@@ -167,6 +171,7 @@ Mainly concerned with modelling compressors, channel strips, EQ's, and guitar am
 #### Misc
 - [Open Source: Caps](http://quitte.de/dsp/caps.html#)
 - [Open Source: Guitarix](https://sourceforge.net/projects/guitarix/)
+- [REAL-TIME PHYSICAL MODELLING FOR ANALOG TAPE MACHINES](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_3.pdf)
 
 ## GUI Design
 - [SkinMan](http://www.g200kg.com/en/software/skinman.html)
