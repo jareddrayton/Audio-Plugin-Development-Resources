@@ -69,6 +69,10 @@ Link != endorsement.
 - [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A/videos)
 - [Scowling Owl Blog](http://scowlingowlsound.com/blog)
 
+#### JS
+- [CookDSP](http://ajaxsoundstudio.com/software/cookdsp/)
+- [JSFX](https://github.com/geraintluff/jsfx)
+
 #### DSP Code
 - [STK](https://github.com/thestk/stk)
 - [Audio Toolkit](https://sourceforge.net/projects/audiotoolkitplugins/)
@@ -81,7 +85,6 @@ Link != endorsement.
 
 ## Audio Codecs
 - [Audio File Format Specifications - Wave](http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html)
-
 - [CookDSP: Library for Reaper JS](http://ajaxsoundstudio.com/software/cookdsp/)
 
 ## Reverb
@@ -117,6 +120,8 @@ Mainly concerned with modelling compressors, channel strips, EQ's, and guitar am
 - [Distortion 101](http://blackstoneappliances.com/dist101.html)
 - [A Musical Distortion Primer](http://www.geofex.com/effxfaq/distn101.htm)
 - [GM-Arts Amp page](http://www.gmarts.org/index.php?go=210) 
+- [SwankyAmp](https://github.com/resonantdsp/SwankyAmp)
+- [PedalNetRT](https://github.com/GuitarML/PedalNetRT)
 
 #### Modelling Theory
 - [Reddit user /u/C0DASOON comment on machine learning in guitar amp modelling](http://archive.is/vcyfv)
@@ -134,6 +139,7 @@ Mainly concerned with modelling compressors, channel strips, EQ's, and guitar am
 - [Real-Time Guitar Amplifier Emulation with Deep Learning](https://www.mdpi.com/2076-3417/10/3/766/htm)
 - [GuuitarML](https://github.com/GuitarML)
 - [Jatin Chowdhury](https://ccrma.stanford.edu/~jatin/chowdsp/)
+- [GuitarML](https://www.youtube.com/channel/UCs6ZGZKGoxV9JadxESOtx1Q)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
