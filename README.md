@@ -24,6 +24,7 @@ Link != endorsement.
 - [JOS: Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects](https://ccrma.stanford.edu/~jos/pasp/)
 - [JOS: Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp/)
 - [The Art of VA Filter Design](https://www.discodsp.net/VAFilterDesign_2.1.2.pdf)
+- [Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications](https://www.amazon.co.uk/dp/3319219448)
 
 #### Sound Design Books
 - [The Computer Music Tutorial (The MIT Press)](https://www.amazon.co.uk/dp/0262680823/)
@@ -56,7 +57,7 @@ Link != endorsement.
 | Library |                      Site                      |      |
 | :-----: | :--------------------------------------------: | ---- |
 | iPlug2  |      [iPlug2](https://iplug2.github.io/)       |      |
-|  JUCE   |                                                |      |
+|  JUCE   |           [JUCE](https://juce.com/)            |      |
 |  dplug  | [dplug](https://github.com/AuburnSounds/dplug) |      |
 | DISTRHO |   [DISTRHO](https://github.com/DISTRHO/DPF)    |      |
 
@@ -92,7 +93,7 @@ Link != endorsement.
 
 ## Analog Hardware Modelling
 
-Mainly concerned with modelling compressors, channel strips, EQ's, and guitar amps.
+Mainly concerned with modelling compressors, channel strips, and EQ's.
 
 #### Videos
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
@@ -121,7 +122,6 @@ Mainly concerned with modelling compressors, channel strips, EQ's, and guitar am
 - [A Musical Distortion Primer](http://www.geofex.com/effxfaq/distn101.htm)
 - [GM-Arts Amp page](http://www.gmarts.org/index.php?go=210) 
 - [SwankyAmp](https://github.com/resonantdsp/SwankyAmp)
-- [PedalNetRT](https://github.com/GuitarML/PedalNetRT)
 
 #### Modelling Theory
 - [Reddit user /u/C0DASOON comment on machine learning in guitar amp modelling](http://archive.is/vcyfv)
@@ -134,12 +134,20 @@ Mainly concerned with modelling compressors, channel strips, EQ's, and guitar am
 - [Scholar Search](https://scholar.google.dk/scholar?hl=en&as_sdt=0,5&q=guitar+lstm)
 - [Addendum A19 Vacuum Tube & Distortion Emulation Part 2](http://willpirkle.com/special/Addendum_A19_Pirkle_v1.0.pdf)
 - [Component [triode.sym] was not found in the component library](https://sourceforge.net/p/guitarix/bugs/73/)
-- [WaveNetVA](https://github.com/damskaggep/WaveNetVA)
-- [PedalNet](https://github.com/teddykoker/pedalnet)
 - [Real-Time Guitar Amplifier Emulation with Deep Learning](https://www.mdpi.com/2076-3417/10/3/766/htm)
-- [GuuitarML](https://github.com/GuitarML)
 - [Jatin Chowdhury](https://ccrma.stanford.edu/~jatin/chowdsp/)
 - [GuitarML](https://www.youtube.com/channel/UCs6ZGZKGoxV9JadxESOtx1Q)
+- [Deep Learning for Guitar Effect Emulation](https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/)
+- [Neural Networks as Guitar Amps (with Neural DSP interview)](https://www.youtube.com/watch?v=WLTzbEKTxhk)
+- [Guitar + ML](https://blog.zakjost.com/post/guitarml/)
+
+#### Github Repos
+- [GuitarML](https://github.com/GuitarML)
+- [AI-GuitarAmpModelling](https://github.com/Alec-Wright/AI-GuitarAmpModelling)
+- [WaveNetVA](https://github.com/damskaggep/WaveNetVA)
+- [PedalNet](https://github.com/teddykoker/pedalnet)
+- [micro-TCN](https://github.com/csteinmetz1/micro-tcn)
+- [PedalNetRT](https://github.com/GuitarML/PedalNetRT)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
