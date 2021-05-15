@@ -1,33 +1,21 @@
-## Audio-Plugin-Development-Resources
+# Audio-Plugin-Development-Resources
 
-A collection of links and resources related to Audio-Plugin-Development (VST, AU, AAX), including some signal processing. 
+This is a collection of links and resources mainly aimed at facilitating Audio-Plugin-Development (VST, AU, AAX), including some signal processing. This list curated by Oli Larkin may also be of interest. (https://github.com/olilarkin/awesome-musicdsp), as well as this one maintained by Ocean Swift (https://github.com/OceanSwift/DSP-Links-Resources) 
 
-This list curated by Oli Larkin may also be of interest. (https://github.com/olilarkin/awesome-musicdsp). Also this one by Ocean Swift (https://github.com/OceanSwift/DSP-Links-Resources) 
+I certainly haven't read everything here so a link != endorsement.
 
-Link != endorsement. 
+# Core Resources
 
-## Core Resources
+## Audio Plug-ins
 
 #### Plug-in Development Books
+- [2021 - Designing Software Synthesizer Plugins in C++ Second Edition](https://www.amazon.co.uk/dp/0367510464/)
 - [2019 - Designing Audio Effect Plug-Ins in C++](https://www.amazon.co.uk/dp/1138591939/)
-- [2015 - Designing Software Synthesizer Plug-Ins in C++: For RackAFX, VST3, and Audio Units](https://www.amazon.co.uk/dp/1138787078)
+- [2015 - Designing Software Synthesizer Plugins in C++](https://www.amazon.co.uk/dp/1138787078)
 - [2014 - Audio Effects: Theory, Implementation and Application](https://www.amazon.co.uk/dp/1466560282/)
 - [2013 - Getting Started with JUCE](http://www.amazon.co.uk/dp/1783283319)
 - [2011 - DAFX: Digital Audio Effects](http://www.amazon.co.uk/dp/0470665998)
 - [2010 - The Audio Programming Book](http://www.amazon.co.uk/dp/0262014467)
-
-#### Digital Signal Processing Books
-- [Understanding Digital Signal Processing](http://www.amazon.co.uk/dp/0137027419)
-- [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
-- [JOS: MATHEMATICS OF THE DISCRETE FOURIER TRANSFORM (DFT) WITH AUDIO APPLICATIONS](https://ccrma.stanford.edu/~jos/mdft/)
-- [JOS: Introduction to Digital Filters with Audio Applications](https://ccrma.stanford.edu/~jos/filters/)
-- [JOS: Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects](https://ccrma.stanford.edu/~jos/pasp/)
-- [JOS: Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp/)
-- [The Art of VA Filter Design](https://www.discodsp.net/VAFilterDesign_2.1.2.pdf)
-- [Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications](https://www.amazon.co.uk/dp/3319219448)
-
-#### Sound Design Books
-- [The Computer Music Tutorial (The MIT Press)](https://www.amazon.co.uk/dp/0262680823/)
 
 #### Plug-in Development Videos
 - [Teaching Yourself to Make Music Software: Steve Duda in Conversation | Loop](https://www.youtube.com/watch?v=Cp0rtLaXBio)
@@ -43,6 +31,21 @@ Link != endorsement.
 - [Russel McClellan - A practical perspective on deep learning in audio software](https://www.youtube.com/watch?v=fGuT9zoQ_JA)
 - [Oli Larkin: iPlug2, C++ framework to build plug-ins](https://www.youtube.com/watch?v=eVi-OWFPwO4&feature=youtu.be)
 
+#### Sound Design Books
+- [The Computer Music Tutorial (The MIT Press)](https://www.amazon.co.uk/dp/0262680823/)
+
+## Digital Signal Processing
+
+#### Digital Signal Processing Books
+- [Understanding Digital Signal Processing](http://www.amazon.co.uk/dp/0137027419)
+- [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+- [JOS: Mathematics of the Discrete Fourier Transform (DFT) wih Audio Applications](https://ccrma.stanford.edu/~jos/mdft/)
+- [JOS: Introduction to Digital Filters with Audio Applications](https://ccrma.stanford.edu/~jos/filters/)
+- [JOS: Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects](https://ccrma.stanford.edu/~jos/pasp/)
+- [JOS: Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp/)
+- [The Art of VA Filter Design](https://www.discodsp.net/VAFilterDesign_2.1.2.pdf)
+- [Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications](https://www.amazon.co.uk/dp/3319219448)
+
 #### Digital Signal Processing Videos
 - [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 
@@ -52,14 +55,14 @@ Link != endorsement.
 - [Overlap-add Convolution](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/convolution.html)
 - [Ear Level Engineering](http://www.earlevel.com/main/category/digital-audio/)
 
-## Libraries
+# Audio Development Libraries and Languages
 
-| Library |                      Site                      |      |
-| :-----: | :--------------------------------------------: | ---- |
-| iPlug2  |      [iPlug2](https://iplug2.github.io/)       |      |
-|  JUCE   |           [JUCE](https://juce.com/)            |      |
-|  dplug  | [dplug](https://github.com/AuburnSounds/dplug) |      |
-| DISTRHO |   [DISTRHO](https://github.com/DISTRHO/DPF)    |      |
+| Library |                      Site                      |   Language   |
+| :-----: | :--------------------------------------------: | :----------: | 
+| iPlug2  |      [iPlug2](https://iplug2.github.io/)       |   C++        |
+|  JUCE   |           [JUCE](https://juce.com/)            |   C++        |
+|  dplug  | [dplug](https://github.com/AuburnSounds/dplug) |    D         |
+| DISTRHO |   [DISTRHO](https://github.com/DISTRHO/DPF)    |   C++        |
 
 #### iPlug 2
 - [(Old) Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
@@ -74,26 +77,26 @@ Link != endorsement.
 - [CookDSP](http://ajaxsoundstudio.com/software/cookdsp/)
 - [JSFX](https://github.com/geraintluff/jsfx)
 
+### Faust
+- [Faust Physical Modeling Workshop](https://www.youtube.com/watch?v=xQ8aNgMaR5k)
+- [Using the FAUST DSP language and the libfaust JIT compiler with JUCE - Oli Larkin](https://www.youtube.com/watch?v=INlqClEOhak&feature=youtu.be&a)
+- [Faust Worksop 2015: Online Course - Romain Michon](https://ccrma.stanford.edu/~rmichon/faustWorkshops/course2015/)
+
 #### DSP Code
 - [STK](https://github.com/thestk/stk)
 - [Audio Toolkit](https://sourceforge.net/projects/audiotoolkitplugins/)
-- [MusicDSP Archive](http://www.musicdsp.org/archive.php?classid=0)
+- [MusicDSP Archive](https://www.musicdsp.org/en/latest/index.html)
 
 #### Forums and Discussion
 - [iPLug 2 Forum](https://iplug2.discourse.group/)
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
-## Audio Codecs
-- [Audio File Format Specifications - Wave](http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html)
-- [CookDSP: Library for Reaper JS](http://ajaxsoundstudio.com/software/cookdsp/)
-
-## Reverb
-- [Valhalla DSP Blog](https://valhalladsp.com/blog/)
-
-## Analog Hardware Modelling
+# Analog Hardware Modelling
 
 Mainly concerned with modelling compressors, channel strips, and EQ's.
+
+### General Case
 
 #### Videos
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
@@ -112,7 +115,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 #### Papers
 - [Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach](https://www.mdpi.com/2076-3417/6/10/273)
 
-## Guitar Amp Modelling
+### Guitar Amp Modelling
 
 #### Guitar Amp Theory
 - [Amp Books - Tutorials/Scehmatics](https://www.ampbooks.com/)
@@ -122,6 +125,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [A Musical Distortion Primer](http://www.geofex.com/effxfaq/distn101.htm)
 - [GM-Arts Amp page](http://www.gmarts.org/index.php?go=210) 
 - [SwankyAmp](https://github.com/resonantdsp/SwankyAmp)
+- [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)
 
 #### Modelling Theory
 - [Reddit user /u/C0DASOON comment on machine learning in guitar amp modelling](http://archive.is/vcyfv)
@@ -140,6 +144,8 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [Deep Learning for Guitar Effect Emulation](https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/)
 - [Neural Networks as Guitar Amps (with Neural DSP interview)](https://www.youtube.com/watch?v=WLTzbEKTxhk)
 - [Guitar + ML](https://blog.zakjost.com/post/guitarml/)
+- [Efficient neural networks for real-time analog audio effect modeling](https://csteinmetz1.github.io/tcn-audio-effects/)
+- [Randomized overdrive neural networks](https://github.com/csteinmetz1/ronn)
 
 #### Github Repos
 - [GuitarML](https://github.com/GuitarML)
@@ -187,7 +193,15 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [Open Source: Guitarix](https://sourceforge.net/projects/guitarix/)
 - [REAL-TIME PHYSICAL MODELLING FOR ANALOG TAPE MACHINES](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_3.pdf)
 
-## GUI Design
+# Effects
+
+## Reverb
+- [Valhalla DSP Blog](https://valhalladsp.com/blog/)
+
+## Other
+- [Imogen](https://github.com/benthevining/imogen)
+
+# GUI Design
 - [SkinMan](http://www.g200kg.com/en/software/skinman.html)
 - [KnobMan](http://www.g200kg.com/en/software/knobman.html)
 - [KVR: Knobman/Skinman Examples](http://www.kvraudio.com/forum/viewtopic.php?f=33&t=232629)
@@ -201,11 +215,12 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 ## Physical Modelling
 - [Online talk #4: Physical modeling with Pat Scandalis](https://www.youtube.com/watch?v=Sha3zgw9jSU)
 
-## Misc
+# Miscellaneous Resources
 - [AudioKit](http://audiokit.io/)
 - [GPU Physical Modeling SYntesiser](https://www.youtube.com/watch?v=Tg3OVbsBn6c)
-
-### Languages
-- [Using the FAUST DSP language and the libfaust JIT compiler with JUCE - Oli Larkin](https://www.youtube.com/watch?v=INlqClEOhak&feature=youtu.be&a)
-- [Faust Worksop 2015: Online Course - Romain Michon](https://ccrma.stanford.edu/~rmichon/faustWorkshops/course2015/)
 - [SOUL](https://github.com/soul-lang/SOUL)
+- [SoMA Group](https://somagroup.co.uk/)
+
+## Audio Codecs
+- [Audio File Format Specifications - Wave](http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html)
+- [CookDSP: Library for Reaper JS](http://ajaxsoundstudio.com/software/cookdsp/)
