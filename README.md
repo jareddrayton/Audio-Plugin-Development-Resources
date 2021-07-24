@@ -154,6 +154,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [PedalNet](https://github.com/teddykoker/pedalnet)
 - [micro-TCN](https://github.com/csteinmetz1/micro-tcn)
 - [PedalNetRT](https://github.com/GuitarML/PedalNetRT)
+- [Voxworld](https://github.com/mulshine/voxworld)
 
 #### Software/Tools
 - [SPICE](http://www.linear.com/designtools/software/#LTspice)
@@ -197,6 +198,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 
 ## Reverb
 - [Valhalla DSP Blog](https://valhalladsp.com/blog/)
+- [time-stretcher](https://github.com/jatinchowdhury18/time-stretcher)
 
 ## Other
 - [Imogen](https://github.com/benthevining/imogen)
@@ -215,9 +217,12 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 ## Physical Modelling
 - [Online talk #4: Physical modeling with Pat Scandalis](https://www.youtube.com/watch?v=Sha3zgw9jSU)
 
+## GPU Audio
+- [Realtime GPU Audio Finite difference-based sound synthesis using graphics processors](https://queue.acm.org/detail.cfm?id=2484010)
+- [GPU Physical Modeling SYntesiser](https://www.youtube.com/watch?v=Tg3OVbsBn6c)
+
 # Miscellaneous Resources
 - [AudioKit](http://audiokit.io/)
-- [GPU Physical Modeling SYntesiser](https://www.youtube.com/watch?v=Tg3OVbsBn6c)
 - [SOUL](https://github.com/soul-lang/SOUL)
 - [SoMA Group](https://somagroup.co.uk/)
 
