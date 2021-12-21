@@ -30,6 +30,7 @@ I certainly haven't read everything here so a link != endorsement.
 - [Marek Bereza - How to prototype audio software](https://www.youtube.com/watch?v=AO1V8er6IjM)
 - [Russel McClellan - A practical perspective on deep learning in audio software](https://www.youtube.com/watch?v=fGuT9zoQ_JA)
 - [Oli Larkin: iPlug2, C++ framework to build plug-ins](https://www.youtube.com/watch?v=eVi-OWFPwO4&feature=youtu.be)
+- [LIVE | Conversation with Baby Audio | Caspar Bock (Managing Director)](https://www.youtube.com/watch?v=SUvuymToUbI)
 
 #### Sound Design Books
 - [The Computer Music Tutorial (The MIT Press)](https://www.amazon.co.uk/dp/0262680823/)
@@ -100,6 +101,8 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 
 #### Videos
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
+- [Cedar: A Composable ML Accelerated Analog Circuit Simulator | G Hertz, P de Vos | JuliaCon2021](https://www.youtube.com/watch?v=q8SzFTtgA60)
+- [From Circuit to Code: Under the Hood of Analog Modelling - Andrew Simper - ADC20](https://www.youtube.com/watch?v=eGcqomH6aAc)
 
 #### General
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
@@ -162,6 +165,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [DAP: Tone Stack Calculator](http://www.duncanamps.com/tsc/)
 - [DAP: Tube Data Sheet Locator](http://www.duncanamps.com/tdslpe/index.html)
 - [Circuit Simulator](http://www.falstad.com/circuit/)
+- [Wavy](https://github.com/stefvenmans/Wavy)
 
 #### Tutorials/Posts
 - [Simulating Audio Effects with LTSpice](http://hforsten.com/simulating-audio-effects-with-spice.html)
