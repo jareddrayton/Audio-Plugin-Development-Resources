@@ -73,6 +73,7 @@ I certainly haven't read everything here so a link != endorsement.
 - [Official JUCE Youtube](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/videos)
 - [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A/videos)
 - [Scowling Owl Blog](http://scowlingowlsound.com/blog)
+- [Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) - Full Course](https://www.youtube.com/watch?v=i_Iq4_Kd7Rc)
 
 #### JS
 - [CookDSP](http://ajaxsoundstudio.com/software/cookdsp/)
@@ -111,6 +112,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [GAM: General Discussion](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=7006)
 - [GAM: General Discussion II](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=20540&sid=08f44af82d2598e29059264d9f297b6a#p95937)
 - [KVR General Discussion](http://www.kvraudio.com/forum/viewtopic.php?t=277994)
+- [The Art Of Physical Modelling - David Bessell | Podcast](https://www.soundonsound.com/people/art-physical-modelling-david-bessell-podcast)
 
 #### Compressors
 - [1172](http://arpjournal.com/all-buttons-in-an-investigation-into-the-use-of-the-1176-fet-compressor-in-popular-music-production/)
@@ -193,10 +195,16 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 #### Speaker Simulation
 - [Cabsims](http://www.hexeguitar.com/diy/techinfo/cabsims)
 
+# Synth
+
+- [VL1-emulator](https://github.com/linuxmao-org/VL1-emulator)
+
+
 #### Misc
 - [Open Source: Caps](http://quitte.de/dsp/caps.html#)
 - [Open Source: Guitarix](https://sourceforge.net/projects/guitarix/)
 - [REAL-TIME PHYSICAL MODELLING FOR ANALOG TAPE MACHINES](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_3.pdf)
+- [IIRNet](https://csteinmetz1.github.io/IIRNet/)
 
 # Effects
 
@@ -217,6 +225,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [GIMP: Create a metal effect](https://en.wikibooks.org/wiki/GIMP/Create_a_Metal_Effect)
 - [GIMP: Metal text effects](https://texteffectsforgimp.wordpress.com/metal-2/)
 - [Blender: Blender Guru Youtube](https://www.youtube.com/user/AndrewPPrice/videos)
+- [PluginGuiMagic](https://github.com/ffAudio/PluginGuiMagic)
 
 ## Physical Modelling
 - [Online talk #4: Physical modeling with Pat Scandalis](https://www.youtube.com/watch?v=Sha3zgw9jSU)
@@ -229,6 +238,11 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [AudioKit](http://audiokit.io/)
 - [SOUL](https://github.com/soul-lang/SOUL)
 - [SoMA Group](https://somagroup.co.uk/)
+- [JavaScript Audio Plugin](https://github.com/nickjillings/JSAP)
+- [DawDreamer](https://github.com/DBraun/DawDreamer)
+- [SonicPi](https://sonic-pi.net/)
+- [Spotify Pedalboard](https://github.com/spotify/pedalboard)
+- [Audio-Effects Examples](https://github.com/juandagilc/Audio-Effects)
 
 ## Audio Codecs
 - [Audio File Format Specifications - Wave](http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/WAVE/WAVE.html)
