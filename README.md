@@ -69,7 +69,7 @@ I certainly haven't read everything here so a link != endorsement.
 - [(Old) Martin Finke: Making Audio Plug-ins](http://www.martin-finke.de/blog/)
 
 #### JUCE
-- [Official JUCE Tutorials](https://www.juce.com/tutorials)
+- [Official JUCE Tutorials](https://juce.com/learn/tutorials)
 - [Official JUCE Youtube](https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ/videos)
 - [The Audio Programmer](https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A/videos)
 - [Scowling Owl Blog](http://scowlingowlsound.com/blog)
@@ -109,13 +109,11 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 2](http://www.uaudio.com/blog/ask-doctors-ua-modeling-plug-ins/)
 - [Under the Hood of the Empirical Labs Arousor Plug-in with Dave Derr](http://www.avidblogs.com/under-the-hood-of-the-empirical-labs-arousor-plug-in-with-dave-derr/)
-- [GAM: General Discussion](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=7006)
-- [GAM: General Discussion II](http://www.guitarampmodeling.com/viewtopic.php?f=51&t=20540&sid=08f44af82d2598e29059264d9f297b6a#p95937)
 - [KVR General Discussion](http://www.kvraudio.com/forum/viewtopic.php?t=277994)
 - [The Art Of Physical Modelling - David Bessell | Podcast](https://www.soundonsound.com/people/art-physical-modelling-david-bessell-podcast)
 
 #### Compressors
-- [1172](http://arpjournal.com/all-buttons-in-an-investigation-into-the-use-of-the-1176-fet-compressor-in-popular-music-production/)
+- [1176](https://www.arpjournal.com/asarpwp/all-buttons-in-an-investigation-into-the-use-of-the-1176-fet-compressor-in-popular-music-production/)
 
 #### Papers
 - [Passive Guaranteed Simulation of Analog Audio Circuits: A Port-Hamiltonian Approach](https://www.mdpi.com/2076-3417/6/10/273)
@@ -137,7 +135,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [Reddit user /u/KjellJagland post on Using ML to digitally emulate commercial vacuum tube amplifiers and transistor-based distortion circuits for guitars](http://archive.fo/33HpL)
 - [Reddit user /u/J1OO post on Guitar Amp Model](https://www.reddit.com/r/DSP/comments/a0bqjo/guitar_amp_model/)
 - [David Yeh](https://ccrma.stanford.edu/~dtyeh/papers/pubs.html)
-- [A Review of Digital Techniques for Modeling Vacuum-Tube Guitar Amplifiers](http://www.mitpressjournals.org/doi/abs/10.1162/comj.2009.33.2.85#.V8MYPfkrK71)
+- [A Review of Digital Techniques for Modeling Vacuum-Tube Guitar Amplifiers](https://direct.mit.edu/comj/article/33/2/85/94251/A-Review-of-Digital-Techniques-for-Modeling-Vacuum)
 - [DAFX](http://www.dafx.de/)
 - [SimulAnalog Articles](http://www.simulanalog.org/)
 - [Scholar Search](https://scholar.google.dk/scholar?hl=en&as_sdt=0,5&q=guitar+lstm)
