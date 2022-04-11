@@ -94,6 +94,9 @@ I certainly haven't read everything here so a link != endorsement.
 - [KVR: DSP and Plug-in Development](http://www.kvraudio.com/forum/viewforum.php?f=33)
 - [WDL-OL](http://forum.cockos.com/forumdisplay.php?f=32)
 
+#
+- [pluginval](https://github.com/Tracktion/pluginval)
+
 # Analog Hardware Modelling
 
 Mainly concerned with modelling compressors, channel strips, and EQ's.
@@ -104,6 +107,7 @@ Mainly concerned with modelling compressors, channel strips, and EQ's.
 - [Virtual Analog Audio Effects Simulation with JUCE - Ivan Cohen](https://www.youtube.com/watch?v=l_HHJdCKcjA)
 - [Cedar: A Composable ML Accelerated Analog Circuit Simulator | G Hertz, P de Vos | JuliaCon2021](https://www.youtube.com/watch?v=q8SzFTtgA60)
 - [From Circuit to Code: Under the Hood of Analog Modelling - Andrew Simper - ADC20](https://www.youtube.com/watch?v=eGcqomH6aAc)
+- [A Comparison of Virtual Analog Modelling Techniques - Jatin Chowdhury - ADC20r](https://www.youtube.com/watch?v=FeS6wQJ6mYI)
 
 #### General
 - [UA's Art and Science of Modeling UAD Plug-Ins - Part 1](http://www.uaudio.com/blog/ua-plug-in-modeling-story/)
