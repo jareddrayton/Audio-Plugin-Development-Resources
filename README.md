@@ -9,6 +9,7 @@ I certainly haven't read everything here so a link != endorsement.
 ## Audio Plug-ins
 
 #### Plug-in Development Books
+- [2022 - Code Your Own Synth Plug-Ins With C++ and JUCE](https://leanpub.com/synth-plugin)
 - [2021 - Designing Software Synthesizer Plugins in C++ Second Edition](https://www.amazon.co.uk/dp/0367510464/)
 - [2019 - Designing Audio Effect Plug-Ins in C++](https://www.amazon.co.uk/dp/1138591939/)
 - [2015 - Designing Software Synthesizer Plugins in C++](https://www.amazon.co.uk/dp/1138787078)
